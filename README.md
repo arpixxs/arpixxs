@@ -31,13 +31,10 @@
 
 <br>
 
-## GitHub Stats
+## Contributions
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=arpixxs&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF" width="48%" />
-<img src="https://streak-stats.demolab.com?user=arpixxs&theme=dark&hide_border=true&background=000000&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpixxs&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FF0000&text_color=FFFFFF" width="48%" />
+<img src="https://streak-stats.demolab.com?user=arpixxs&theme=dark&hide_border=true&background=000000&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" width="65%" />
 
 </div>
