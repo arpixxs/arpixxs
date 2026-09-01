@@ -1,13 +1,8 @@
-<div align="center">
-
 ## About Me
 
-**Age:** 20 y/o (2006 born)<br>
-**Undergrad:** Physics & Mathematics<br>
-**Field:** Physics, Programming, Machine Learning<br>
-**Languages:** C++, Python<br>
-**Interests:** Theoretical Physics, Astronomy, Artificial Intelligence, Machine Learning, Applied Mathematics<br>
-**Hobbies:** Stargazing, Music, Late Night Walks, Badminton, Painting, Sketching
+<div align="center">
+
+<img src="./about-me-card.png" width="720" />
 
 </div>
 
@@ -15,7 +10,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1200&color=FF0000&center=true&vCenter=true&width=520&lines=made+of+dead+stars%2C+chosen+by+the+universe)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1200&color=FF0000&center=true&vCenter=true&width=650&lines=made+of+dead+stars%2C+chosen+by+the+universe)](https://git.io/typing-svg)
 
 </div>
 
