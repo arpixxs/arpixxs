@@ -6,15 +6,6 @@
 
 </div>
 
-<br>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1200&color=FF0000&center=true&vCenter=true&width=650&lines=made+of+dead+stars%2C+chosen+by+the+universe)](https://git.io/typing-svg)
-
-</div>
-
-<br>
 
 ## Tech Stack
 
