@@ -20,12 +20,3 @@
 
 </div>
 
-<br>
-
-## Contributions
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=arpixxs&theme=dark&hide_border=true&background=000000&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" width="65%" />
-
-</div>
