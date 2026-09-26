@@ -18,11 +18,5 @@
 <img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=FF0000" height="40"/>
 
 
-## GitHub Stats
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=arpixxs&theme=dark&hide_border=true&background=000000&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=999999&stroke=000000)
-
 </div>
 
